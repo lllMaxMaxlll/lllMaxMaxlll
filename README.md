@@ -54,10 +54,7 @@
 <a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/-Slack-481449?style=flat-square&logo=Slack&logoColor=white" /></a>
 <a href="https://discord.com/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Adobe_Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white" alt="Lightroom"/></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Adobe_After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" alt="After Effects" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" alt="Premiere Pro"  /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" /></a>
 
 </div>
 
