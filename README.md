@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=I'm+a+competitive+programmer;I'm+a+front-end+developer;I'm+a+back-end+developer;I'm+a+photographer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=I'm+a+front-end+developer;I'm+a+back-end+developer;I'm+a+competitive+developer;I'm+a+photographer" alt="Typing SVG" /></a>
 </p>
 
 🔭 I’m currently working on [PetsCare](https://github.com/erikfille/PF-Henry)
@@ -63,10 +63,12 @@
 <br/>  
 
 ## Connect with me  
+
 <div align="center">
+<!-- 
 <a href="https://github.com/lllMaxMaxlll" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://twitter.com/lllMaxMaxlll" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
