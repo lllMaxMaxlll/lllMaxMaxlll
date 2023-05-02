@@ -46,6 +46,7 @@
 <div align="center">  
 <a href="https://www.debian.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Debian-a80030?style=flat-square&logo=debian&logoColor=white" alt="Debian" /></a>
 <a href="https://fedoraproject.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" /></a>
+<a href="hhttps://www.gnome.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Gnome-4A86CF?style=flat-square&logo=gnome&logoColor=white" alt="Gnome" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Git-e94e31?style=flat-square&logo=Git&logoColor=white" alt="Git" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Figma-a259ff?style=flat-square&logo=Figma&logoColor=white" alt="Figma" /></a>  
 <a href="https://insomnia.rest/" target="_blank"><img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" /></a>
