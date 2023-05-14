@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on [PetsCare](https://github.com/erikfille/PF-Henry)
 
-🌱 I’m currently learning **Java, Spring, Mongo DB and Next.js**
+🌱 I’m currently learning **Typescript, NextJS and Mongo DB.**
 
 ⚡ Fun fact: I use a lot of memes  
 
