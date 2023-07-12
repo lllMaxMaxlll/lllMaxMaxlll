@@ -1,3 +1,6 @@
+![Max Herr (3)](https://github.com/lllMaxMaxlll/lllMaxMaxlll/assets/102885256/49d59b92-6af2-4995-b8f9-dcf2cdaccc1e)
+
+
 <h1 align="center">Hi 👋, I'm Max</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=I'm+a+front-end+developer;I'm+a+back-end+developer;I'm+a+competitive+developer;I'm+a+photographer" alt="Typing SVG" /></a>
