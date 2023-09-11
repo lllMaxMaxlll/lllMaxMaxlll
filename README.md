@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on [CH Servicios Juridicos](https://chserviciosjuridicos.vercel.app/) and on my portfolio.
 
-🌱 I’m currently learning **Typescript and NextJS.**
+🌱 I’m currently learning **Typescript and MongoDB.**
 
 ⚡ Fun fact: I use a lot of memes  
 
