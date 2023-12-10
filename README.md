@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=I'm+a+front-end+developer;I'm+a+back-end+developer;I'm+a+competitive+developer;I'm+a+photographer" alt="Typing SVG" /></a>
 </p>
 
-🔭 I’m currently working on [CH Servicios Juridicos](https://chserviciosjuridicos.vercel.app/) and on my portfolio.
+🔭 I’m currently working on my portfolio as a photographer.
 
 🌱 I’m currently learning **Typescript and MongoDB.**
 
